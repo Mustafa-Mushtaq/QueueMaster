@@ -1,0 +1,3 @@
+Flask
+gunicorn
+matplotlib==3.10.0
